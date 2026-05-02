@@ -8,7 +8,7 @@ Currently, my active focus is on mastering performance-based certifications (RHC
 
 My engineering philosophy is simple: master fundamental skills, not just specific tools. Tools inevitably change, but deep conceptual understanding is what builds resilient systems.
 
-`Linux/Unix` | `System Level Networking` | `Network Security` | `Version Control` | `Container Orchestration` | `DevOps` | `CI/CD` | `Cloud Infrastructure` | `Infrastructure as Code (IaC)` | `Automation` | `Configuration Management` | `Monitoring and Observability` | `Troubleshooting and Debugging` | `Programming (C#, Python, C++)` | `API Development`
+`Linux/Unix` | `System Level Networking` | `Network Security` | `Version Control` | `Container Orchestration` | `DevOps` | `CI/CD` | `Cloud Infrastructure` | `Infrastructure as Code (IaC)` | `Automation` | `Configuration Management` | `Monitoring and Observability` | `Troubleshooting and Debugging` | `API Development`
 
 ## Highlighted Projects
 
