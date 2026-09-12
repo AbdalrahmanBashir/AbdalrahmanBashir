@@ -1,6 +1,6 @@
-# Hi, I'm Bashir (Abdalrahman Bashir)
+# Hi, I am Naksh (Abdalrahman Bashir)
 
-I am a Software Developer and Site Reliability/DevOps engineer with a focus on container orchestration, GitOps methodologies, and Linux administration. I hold a B.S. in Computer Science and focus on secure, high-performance infrastructure and rigorous lab-based testing.
+I am a DevOps/Site Reliability engineer with a focus on container orchestration, GitOps methodologies, and Linux administration. I hold a B.S. in Computer Science and am RHCSA-certified.
 
 I am actively pursuing performance-based certifications (RHCSA, RHCE, CKA) to build deep, practical expertise in Linux and Kubernetes environments.
 
@@ -12,4 +12,4 @@ My engineering philosophy is simple: master fundamental skills, not just specifi
 
 ## Continuous Growth
 
-I focus on strict, project-based proof of competency rather than theoretical knowledge. My current roadmap focuses on daily, intensive lab work targeting advanced Linux administration, automation, and Kubernetes cluster management.
+I focus on strict, project-based proof of competency rather than theoretical knowledge. My current roadmap focuses on daily, intensive lab work targeting Linux administration, automation, and Kubernetes cluster management.
