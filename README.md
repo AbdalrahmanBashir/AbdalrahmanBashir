@@ -1,15 +1,20 @@
-# Hi, I am Naksh (Abdalrahman Bashir)
+# Abdalrahman Bashir (Naksh)
 
-I am a DevOps/Site Reliability engineer with a focus on container orchestration, GitOps methodologies, and Linux administration. I hold a B.S. in Computer Science and am RHCSA-certified.
+Systems & Automation Engineer | RHCSA | B.S. in Computer Science
 
-I am actively pursuing performance-based certifications (RHCSA, RHCE, CKA) to build deep, practical expertise in Linux and Kubernetes environments.
+I focus on Linux system administration, storage, networking fundamentals, and automation.
 
-## Technical Skills
+## Core Competencies
 
-My engineering philosophy is simple: master fundamental skills, not just specific tools. Tools inevitably change, but deep conceptual understanding is what makes knowledge transferable across any environment.
+- **Operating Systems:** RHEL, Debian
+- **Automation & Scripting:** Bash, Ansible
+- **Systems Administration:** Systemd, LVM, User & Permission Management, Cron/Timers
+- **Networking & Security:** SELinux, Firewalld, SSH, DNS, troubleshooting with `tcpdump` / `ss`
+- **Diagnostics:** `strace`, `journalctl`, `sar`, `procfs`
 
-`Linux/Unix` | `System Level Networking` | `Network Security` | `Version Control` | `Container Orchestration` | `DevOps Practices` | `CI/CD` | `Cloud Infrastructure` | `Infrastructure as Code (IaC)` | `Automation` | `Configuration Management` | `Monitoring and Observability` | `Troubleshooting and Debugging` | `API Development`
+## What I Do
 
-## Continuous Growth
-
-I focus on strict, project-based proof of competency rather than theoretical knowledge. My current roadmap focuses on daily, intensive lab work targeting Linux administration, automation, and Kubernetes cluster management.
+- Automate system provisioning, configuration, and maintenance using Ansible and Bash.
+- Manage enterprise storage layouts (LVM, file systems, mount management).
+- Enforce host security through SELinux policies, firewall rules, and hardened configurations.
+- Diagnose system degradation, process hangs, and network connectivity issues at the OS layer.
