@@ -12,6 +12,10 @@ I focus on Linux system administration, storage, networking fundamentals, and au
 - **Networking & Security:** SELinux, Firewalld, SSH, DNS, troubleshooting with `tcpdump` / `ss`
 - **Diagnostics:** `strace`, `journalctl`, `sar`, `procfs`
 
+## Featured Projects
+
+- **[top-like-tui](https://github.com/AbdalrahmanBashir/top-like-tui):** A lightweight terminal user interface (TUI) utility built to inspect and monitor system resource utilization from `/proc`.
+
 ## What I Do
 
 - Automate system provisioning, configuration, and maintenance using Ansible and Bash.
